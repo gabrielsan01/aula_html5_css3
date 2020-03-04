@@ -1,0 +1,23 @@
+
+body {
+    background: black;
+    margin-left: 100px;
+    margin-right: 200px;
+
+}
+p {
+    color: floralwhite;
+}
+
+h1 {
+    color: darkviolet;
+
+    font-family: fantasy;
+}
+h2 {
+    color: darkviolet;
+}
+.img_padrao {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
